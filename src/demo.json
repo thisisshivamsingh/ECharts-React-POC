@@ -1,0 +1,80 @@
+[
+  {
+    "cost_center_id": 64,
+    "psntl": "A/C Motor Room Br",
+    "employee_count": 1,
+    "compliance_percentage": 0.29411764705882354
+  },
+  {
+    "cost_center_id": -1,
+    "psntl": "No Cost Center",
+    "employee_count": 622,
+    "compliance_percentage": 0.2680511647317047
+  },
+  {
+    "cost_center_id": 88,
+    "psntl": "350 Paint Br",
+    "employee_count": 1,
+    "compliance_percentage": 0.5
+  },
+  {
+    "cost_center_id": 144,
+    "psntl": "me",
+    "employee_count": 1207,
+    "compliance_percentage": 0.059920074077684314
+  },
+  {
+    "cost_center_id": 89,
+    "psntl": "320 Paint Br",
+    "employee_count": 1,
+    "compliance_percentage": 1
+  },
+  {
+    "cost_center_id": 97,
+    "psntl": "Medium Tactical Vehicle Br",
+    "employee_count": 1,
+    "compliance_percentage": 0.07142857142857142
+  },
+  {
+    "cost_center_id": 136,
+    "psntl": "Joy Bond",
+    "employee_count": 8,
+    "compliance_percentage": 0.20833333333333337
+  },
+  {
+    "cost_center_id": 16,
+    "psntl": "Accounting Dv",
+    "employee_count": 1,
+    "compliance_percentage": 1
+  },
+  {
+    "cost_center_id": 119,
+    "psntl": "Test Equipment Maintenance Br",
+    "employee_count": 1,
+    "compliance_percentage": 0.11764705882352941
+  },
+  {
+    "cost_center_id": 159,
+    "psntl": "6",
+    "employee_count": 2000,
+    "compliance_percentage": 0.059264705882354385
+  },
+  {
+    "cost_center_id": 321,
+    "psntl": "56",
+    "employee_count": 2,
+    "compliance_percentage": 1
+  },
+  {
+    "cost_center_id": 145,
+    "psntl": "daloop",
+    "employee_count": 3,
+    "compliance_percentage": 1
+  },
+  {
+    "cost_center_id": 146,
+    "psntl": "asr45",
+    "employee_count": 24,
+    "compliance_percentage": 0.20833333333333337
+  }
+]
